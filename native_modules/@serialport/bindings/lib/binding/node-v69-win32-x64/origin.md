@@ -1,5 +1,5 @@
     # Native module binding
-    @serialport/bindings@9.0.4
+    @serialport/bindings@9.0.7
 
     # Target
     runtime     : electron
