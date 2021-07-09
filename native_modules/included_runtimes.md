@@ -312,3 +312,19 @@ Includes support for electron/node versions:
    - win32   , x64  
    - darwin  , x64  
    - linux   , x64  
+Includes support for electron/node versions:
+* VSCode [master] uses Electron 12.0.13 , ABI: 87
+* VSCode [1.36.0] uses Electron 4.2.5 , ABI: 69
+* VSCode [1.57.0] uses Electron 12.0.9 , ABI: 87
+* VSCode [1.58.0] uses Electron 12.0.13 , ABI: 87
+* VSCode [1.999.0] uses Electron 3.1.8 , ABI: 64
+* electron 12.0.13 uses ABI 87
+* electron 12.0.9 uses ABI 87
+* electron 3.1.8 uses ABI 64
+   - win32   , x64  
+   - darwin  , x64  
+   - linux   , x64  
+* electron 4.2.5 uses ABI 69
+   - win32   , x64  
+   - darwin  , x64  
+   - linux   , x64  
